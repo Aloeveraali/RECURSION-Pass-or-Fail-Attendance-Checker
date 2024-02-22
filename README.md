@@ -8,3 +8,4 @@ Evaluation Logic: Evaluates the record based on predefined criteria:
 Less than 2 absences ('A' characters).
 No more than 2 consecutive late arrivals ('L' characters).
 Output: Provides a simple "PASS" or "FAIL" output based on the evaluation.
+
